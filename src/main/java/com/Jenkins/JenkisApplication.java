@@ -18,6 +18,7 @@ public class JenkisApplication {
 		SpringApplication.run(JenkisApplication.class, args);
 		System.out.println("Hii Prashant Let's Start...");
 		System.out.println("Hiii Tanamy....");
+		.
 		Student.msg();
 	}
 
