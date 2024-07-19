@@ -19,6 +19,7 @@ public class JenkisApplication {
 		System.out.println("Hii Prashant Let's Start...");
 		System.out.println("Hiii Tanamy....");
 		Student.msg();
+		System.out.println("Successfully created the Pipeline in Jenkins....");
 	}
 
 }
